@@ -2,4 +2,4 @@ dooc.txt:
 The old book lay on the table.
 Its pages were old, used and torn.
 A map fell out as it was opened.
-Where could it lead to?  
+Where could it lead to?
