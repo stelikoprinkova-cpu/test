@@ -1,6 +1,6 @@
 Pastel.txt:
 The castle was quiet at night.
-A lantern flickered in the cellar.
+A lantern flickered in the dungeon.
 A shadow moved behind the curtain.
 Was someone watching?
 
