@@ -1,5 +1,5 @@
 Revir.txt:
 The river flowed gently.
  It reflected the moonlight.
- Nearby, an owl hooted.
- The forest seemed alive.
+ Nearby, an owl hooted loudly.
+ The forest seemed alive
